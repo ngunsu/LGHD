@@ -5,8 +5,7 @@ LGHD Code
 This paper presents a new feature descriptor suitable to the task of matching features points between images with non-linear intensity variations. This includes image pairs with significant illuminations changes, multi-modal image pairs and multi-spectral image pairs. The proposed method describes the neighbourhood of feature points combining frequency and spatial information using multi-scale and multi-oriented Log-Gabor filters.
 Experimental results show the validity of the proposed approach and also the improvements with respect to the state of the art.
 
-**Article url**:
-Not yet in the web
+**Article url**: [link](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7350783&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7350783)
 
 **Bibtex**
 ```
