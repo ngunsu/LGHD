@@ -9,6 +9,7 @@ Experimental results show the validity of the proposed approach and also the imp
 Not yet in the web
 
 **Bibtex**
+```
 @inproceedings{lghd2015,
   organization = { IEEE },
   year = { 2015 },
@@ -19,7 +20,7 @@ Not yet in the web
   author = { Cristhian Aguilera and Angel D. Sappa and Ricardo Toledo },
   title = { LGHD: A feature descriptor for matching across non-linear intensity variations },
 }
-
+```
 **Datasets used in the article**
 
 * LWIR/RGB (Ours) https://owncloud.cvc.uab.es/owncloud/index.php/s/1Wx715yUh6kDAO7
