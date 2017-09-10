@@ -1,3 +1,9 @@
+# NEW related works!!
+
+
+[Cross-Spectral Local Descriptors via Quadruplet Network](https://github.com/ngunsu/qnet)
+[Learning cross-spectral similarity measures with deep convolutional neural networks](https://github.com/ngunsu/lcsis)
+
 LGHD Code
 ===============
 
